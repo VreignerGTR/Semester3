@@ -1,0 +1,2 @@
+program menghitung luas persegi panjang dan segitiga ini menggunakan metode Inheritance dan oop.
+Inheritance merupakan proses pewarisan data dan method dari suatu class yang telah ada kepada suatu class baru. Class yang mewariskan disebut dengan superclass / parent class / base class, sedangkan class yang mewarisi (class yang baru) disebut dengan subclass / child class / derived class.
